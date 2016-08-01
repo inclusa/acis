@@ -11,7 +11,7 @@
 
 - [X] ACIS de mates
 
-- [ ] ACIS de valencià
+- [X] ACIS de valencià
 
 - [ ] ACIS de castellà
 
