@@ -7,17 +7,18 @@
 
 - [X] Desenvolupar diseny
 
-- [ ] Introduir el document
+- [X] Introduir el document
 
 - [X] ACIS de mates
 
 - [X] ACIS de valencià
 
-- [ ] ACIS de castellà
+- [X] ACIS de castellà
 
-- [ ] ACIS de socials
+- [X] ACIS de socials
 
-- [ ] ACIS de Naturals
+- [X] ACIS de Naturals
 
-- [ ] ACIS de Final
+- [X] ACIS de Final
 
+### [Publicada Versió 0.1](https://github.com/inclusa/acis/releases/tag/v0.1)
