@@ -2,6 +2,7 @@
 
 [![https://img.shields.io/badge/bootstrap-3.3.7-blue.svg](https://img.shields.io/badge/bootstrap-3.3.7-blue.svg)](https://github.com/twbs/bootstrap)
 [![https://img.shields.io/badge/FontAwesome-4.6.3-blue.svg](https://img.shields.io/badge/FontAwesome-4.6.3-blue.svg)](https://img.shields.io/badge/FontAwesome-4.6.3-blue.svg)
+[![https://img.shields.io/badge/current%20version-0.2-red.svg](https://img.shields.io/badge/current%20version-0.2-red.svg)](https://img.shields.io/badge/current%20version-0.2-red.svg)
 
 ### Llista de funcionalitats per desenvolupar
 
