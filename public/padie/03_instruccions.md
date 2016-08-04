@@ -6,21 +6,22 @@
 
 2. Els centres docents disposaran d’un pla d’atenció a la diversitat i inclusió educativa, que formarà part del projecte educatiu del centre. Aquest pla inclourà: 
 
-– Mesures de suport i reforç. 
-– Adaptacions del currículum. 
-– Adaptaciones del currículo.– Adaptacions d’accés al currículum. 
-– Mesures d’atenció a l’alumnat amb altes capacitats. 
-– Programes específics autoritzats en el centre 
+- Mesures de suport i reforç. 
+- Adaptacions del currículum. 
+- Adaptaciones del currículo.
+- Adaptacions d’accés al currículum. 
+- Mesures d’atenció a l’alumnat amb altes capacitats. 
+- Programes específics autoritzats en el centre 
 
 3. El pla d’atenció a la diversitat i inclusió educativa contemplarà els protocols d’actuació en el centre corresponents a:
 
-– Prevenció i mesures organitzatives del centre. 
-– Detecció i anàlisi de necessitats. 
-– Identificació de necessitats específiques de suport educatiu i de compensació educativa. 
-– Mesures de suport i reforç ordinàries i extraordinàries i plans d’actuació per a l’alumnat. 
-– Organització de recursos humans i materials del centre: generals i específics. 
-– Funcions i responsabilitats. Coordinació. 
-– Avaluació i seguiment del pla d’atenció a la diversitat i inclusió educativa. Propostes de modificació.
+- Prevenció i mesures organitzatives del centre. 
+- Detecció i anàlisi de necessitats. 
+- Identificació de necessitats específiques de suport educatiu i de compensació educativa. 
+- Mesures de suport i reforç ordinàries i extraordinàries i plans d’actuació per a l’alumnat. 
+- Organització de recursos humans i materials del centre: generals i específics. 
+- Funcions i responsabilitats. Coordinació. 
+- Avaluació i seguiment del pla d’atenció a la diversitat i inclusió educativa. Propostes de modificació.
 
 4. L’especialista en orientació educativa donarà suport al centre en el procés cap a la inclusió i, especialment, en les funcions d’orientació, avaluació i intervenció educativa amb l’alumnat amb necessitats específiques de suport educatiu. 
 
