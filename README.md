@@ -23,3 +23,15 @@
 - [X] ACIS de Final
 
 ### [Publicada Versió 0.1](https://github.com/inclusa/acis/releases/tag/v0.1)
+
+### Llista TODO projecte PAIDE
+
+- [X] Desplegament de suport per documentació Sphinx
+
+- [ ] Adequar jerarquia de nivells en títols
+
+- [ ] Fonamentació --> 25%
+
+- [ ] Punts a desenvolupar
+
+
