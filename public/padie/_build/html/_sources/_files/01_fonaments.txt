@@ -1,0 +1,341 @@
+###############
+1. Fonamentació
+###############
+
+===============
+1.0. Legislació
+===============
+
+* `Llei Orgànica 2/2006, de 3 de maig, d’Educació`_.
+* `Llei Orgànica 8/2013, de 9 de desembre, per a la millora de la qualitat educativa`_.
+* `Decret 233/1997, de 2 de setembre`_, del Govern Valencià, pel qual s’aprova el **Reglament orgànic i funcional** de les escoles d’Educació Infantil i dels col·legis Educació Primària (DOGV 08.09.1997)
+* **Ordre de 29 de juny de 1992**, de la Conselleria de Cultura, Educació i Ciència, per la qual s’aproven les **instruccions que regulen l’organització i el funcionament dels centres docents** que impartisquen ensenyaments de segon cicle d’Educació Infantil, Preescolar, Primària, General Bàsica, Educació Especial, Secundària Obligatòria, Batxillerat i Formació Professional, sostinguts amb fons públics i dependents de la Conselleria de Cultura, Educació i Ciència de la Generalitat Valenciana (DOGV 1992.07.15)
+* **Decret 59/2016, de 13 de maig**, del Consell, **fixa el nombre màxim d’alumnat i la jornada lectiva del personal docent** en els nivells no universitaris regulats per la Llei Orgànica 2/2006, de 3 de maig, d’Educació, en els centres docents no universitaris de la Comunitat Valenciana (DOCV 2016.05.17)
+* Decret 155/2015, de 18 de setembre, del Consell, pel qual s’aprova el Reglament orgànic i funcional de la Conselleria d’Educació, Investigació, Cultura i Esport.
+
+.. _Llei Orgànica 2/2006, de 3 de maig, d’Educació: https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899
+.. _Llei Orgànica 8/2013, de 9 de desembre, per a la millora de la qualitat educativa: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-12886
+.. _Decret 233/1997, de 2 de setembre: http://www.docv.gva.es/datos/1997/09/08/pdf/1997_10024.pdf
+
+
+===============
+1.1. Currículum
+===============
+
+DECRET 108/2014, de 4 de juliol, del Consell, pel qual establix el currículum i desplega l’ordenació general de l’Educació Primària a la Comunitat Valenciana. 
+[2014/6347]
+
+Fonts:
+
+* PDF_
+* TXT_
+
+.. _PDF: http://www.docv.gva.es/datos/2014/07/07/pdf/2014_6347.pdf
+.. _TXT: http://www.docv.gva.es/portal/ficha_disposicion_pc.jsp?sig=006087/2014
+
+
+CAPÍTOL V
+
+ATENCIÓ A LA DIVERSITAT
+
+Article 15. Aspectes generals d'atenció a la diversitat
+
+Article 16. Pla d'atenció a la diversitat i inclusió educativa
+
+Article 17. Mesures de suport i reforç
+
+Article 18. Identificació, valoració i intervenció de necessitats específiques de suport educatiu
+
+Article 19. Alumnat que presenta necessitats educatives especials
+
+Article 20. Adaptacions curriculars
+
+Article 21. Prolongació de l'escolarització un any més en l'etapa
+
+Article 22. Altes capacitats
+
+Article 23. Incorporació tardana
+
+Article 24. Dificultats d'aprenentatge
+
+Article 25. Acció tutorial
+
+Article 26. Transició a l'educació secundària obligatòria
+
+
+
+
+CAPÍTOL V
+==========
+
+-----------------------
+Atenció a la diversitat
+-----------------------
+
+Article 15. Aspectes generals d'atenció a la diversitat
+-------------------------------------------------------
+
+1. L'atenció a la diversitat de l'alumnat en l'Educació Primària es regirà per allò que s'ha disposat, amb caràcter general, en els capítols I i II del títol II de la Llei Orgànica 2/2006, i amb el que establixen específicament els articles 9 i 14 del Reial Decret 126/2014.
+
+2. La intervenció educativa haurà d'adaptar-se a la persona, reconeixent les seues potencialitats i necessitats específiques. Des d'este plantejament, es vetlarà pel respecte a les necessitats de l'alumnat, als seus interessos, motivacions i aspiracions a fi que tot l'alumnat obtinga el màxim desenrotllament personal, intel·lectual, social i emocional, així com el màxim grau d'èxit dels objectius i competències en l'etapa.
+
+3. S'assegurarà la informació, la participació i l'assessorament individualitzat a l'alumnat i als seus representants legals en el procés de detecció de les necessitats educatives, així com en els processos d'avaluació i intervenció.
+
+4. A fi de fer efectiu el principi d'igualtat en l'exercici del dret a l'educació, la conselleria competent en matèria d'educació desenrotllarà accions de caràcter compensatori en relació amb les persones, grups i àmbits territorials que es troben en situacions desfavorables derivades de factors socials, econòmics, culturals, geogràfics, ètnics o d'una altra índole. Entre les quals, es consideraran els casos d'impartició d'ensenyança mentres l'alumnat estiga ingressat en una institució hospitalària pública o requerisca hospitalització domiciliària, en els termes que regule la conselleria competent en matèria d'educació.
+
+
+Article 16. Pla d'atenció a la diversitat i inclusió educativa
+--------------------------------------------------------------
+
+Els centres docents disposaran d'un pla d'atenció a la diversitat i inclusió educativa, que formarà part del projecte educatiu del centre. La conselleria competent en matèria d'educació regularà el contingut del pla, que, en tot cas, inclourà les mesures de suport i reforç, les adaptacions del currículum i, si és el cas, d'accés a este, i els programes específics autoritzats en el centre.
+
+Article 17. Mesures de suport i reforç
+--------------------------------------
+
+1. Tindran la consideració de mesures de suport ordinàries aquelles que suposen una adaptació metodològica, de les estratègies organitzatives, o de la distribució temporal del currículum, sense que això supose transformació o eliminació d'elements prescriptius del currículum, açò és, continguts, criteris d'avaluació i estàndards d'aprenentatge avaluables. Seran mesures de suport ordinàries els reforços pedagògics, les adaptacions curriculars no significatives, les adaptacions d'accés al currículum que no impliquen l'adopció de mesures de caràcter extraordinari, l'orientació educativa, la tutoria, i aquelles altres que, en el marc de la normativa vigent, proposen els centres com a part del seu projecte educatiu.
+
+2. Seran mesures de suport extraordinàries aquelles mesures o programes que suposen la transformació significativa d'un o més dels elements prescriptius del currículum, així com aquelles mesures d'accés al currículum que requerisquen recursos personals, organitzatius i/o materials de caràcter extraordinari. Estes mesures es determinaran com una resposta individualitzada a l'alumnat amb necessitat específica de suport educatiu, prèvia avaluació psicopedagògica, quan s'hagen mostrat insuficients altres mesures de suport ordinàries. Les mesures de suport específiques en l'etapa d'Educació Primària seran les adaptacions d'accés al currículum que impliquen l'adopció de mesures de caràcter extraordinari, significativament diferents de les que els centres educatius de manera general poden oferir, les adaptacions curriculars individuals significatives; així com aquells programes específics que requerisquen adaptacions significatives del currículum i/o d'accés a este.
+
+3. També es consideraran mesures de suport específiques la repetició de curs i les conseqüents mesures complementàries de reforç que s'adopten, atés el caràcter excepcional d'esta mesura referit en l'article 11.1 del Reial Decret 126/2014; així com la prolongació de l'escolarització de l'alumnat en l'etapa un any més, a la qual es referix l'article 14.3 del citat Reial Decret.
+
+Article 18. Identificació, valoració i intervenció de necessitats específiques de suport educatiu
+-------------------------------------------------------------------------------------------------
+
+1. De conformitat amb l'article 71.3 de la Llei Orgànica 2/2006, la conselleria competent en matèria d'educació establirà els procediments i recursos que calga per a identificar prompte les necessitats específiques de suport educatiu de l'alumnat. L'atenció integral a l'alumnat amb necessitat específica de suport educatiu s'iniciarà des del mateix moment en què la necessitat siga identificada i es regirà pels principis de normalització i inclusió.
+
+2. La identificació i valoració de l'alumnat amb necessitat específica de suport educatiu es realitzarà el més prompte possible per part dels servicis especialitzats d'orientació educativa, psicopedagògica o professional, o si és el cas, pels gabinets psicopedagògics escolars autoritzats, o per qui tinga atribuïdes estes funcions, tot això, segons el que disposa la normativa vigent. La conselleria competent en matèria d'educació podrà establir plans per a la detecció primerenca de determinades necessitats específiques de suport educatiu.
+
+3. Des de la incorporació de l'alumnat a un centre docent, serà responsabilitat de l'equip docent, coordinat pel tutor o tutora, informar el personal docent d'orientació educativa que atenga el centre, o qui en tinga atribuïdes les funcions, de les possibles necessitats específiques de suport educatiu, des del mateix moment que es detecten, per a procedir a realitzar la corresponent avaluació psicopedagògica prèvia a l'adopció de mesures de suport i reforç corresponents. Estes mesures podran adoptar-se en qualsevol moment de l'etapa, i seran objecte de seguiment i revisió a fi d'introduir les modificacions que calga.
+
+
+Article 19. Alumnat que presenta necessitats educatives especials
+-----------------------------------------------------------------
+
+L'alumnat que presenta necessitats educatives especials es troba definit en l'article 73 de la Llei Orgànica 2/2006. La identificació i valoració d'este alumnat, així com les mesures a adoptar, seran les previstes en els articles 74 i 75 de l'esmentada llei orgànica, en l'article 14.3 del Reial Decret 126/2014, i en l'article 17 d'este decret.
+
+
+Article 20. Adaptacions curriculars
+-----------------------------------
+
+1. Els equips docents, coordinats pel tutor o tutora, i assessorats pel personal docent especialista en orientació educativa, o qui en tinga atribuïdes les funcions, i si és el cas, els mestres i les mestres especialistes en pedagogia terapèutica i en audició i llenguatge, elaborarà les adaptacions curriculars necessàries per a donar una resposta educativa ajustada a les necessitats de l'alumnat que presenta necessitats específiques de suport educatiu.
+
+2. Les adaptacions d'accés al currículum seran les mesures organitzatives, que adapten temps, mitjans i altres elements, planificades perquè l'alumnat que presente necessitats específiques de suport educatiu puga desenrotllar el currículum ordinari, en igualtat de condicions respecte a la resta d'alumnat. En el cas d'alumnat amb necessitats educatives especials, estes adaptacions d'accés podran incloure recursos de suport, prèvia avaluació psicopedagògica.
+
+3. Les adaptacions curriculars individuals significatives que adapten continguts, criteris d'avaluació o estàndards d'aprenentatge avaluables del currículum establit per mitjà d'este decret, a fi d'atendre l'alumnat amb necessitats educatives especials que les necessite, es programaran partint del nivell de competència curricular de l'alumne o alumna. Estes adaptacions hauran de ser elaborades per l'equip docent i seran autoritzades pel director o la directora del centre.
+
+Segons el que disposa l'article 14.3 del Reial Decret 126/2014, les adaptacions es realitzaran buscant el màxim desenrotllament possible de les competències bàsiques; l'avaluació contínua i la promoció prendran com referent els elements fixats en les esmentades adaptacions.
+
+Els resultats de l'avaluació de les àrees que hagen sigut objecte d'adaptació curricular individual significativa, s'expressaran en els mateixos termes i amb les mateixes escales establides per la normativa vigent.
+
+Article 21. Prolongació de l'escolarització un any més en l'etapa
+-----------------------------------------------------------------
+
+1. En virtut del que disposa l'article 14.3 del Reial Decret 126/2014, sense perjuí de la permanència durant un curs més en l'etapa, prevista en l'article 20.2 de la Llei Orgànica 2/2006, de 3 de maig, l'escolarització de l'alumnat amb necessitats educatives especials en l'etapa d'Educació Primària en centres ordinaris podrà prolongar-se un any més, sempre que això afavorisca la seua integració socioeducativa.
+
+2. Esta mesura excepcional podrà sol·licitar-se en qualsevol curs de l'etapa, una vegada l'alumne o alumna ja haja esgotat la repetició de curs referida en l'article 11.1 del Reial Decret 126/2014, i requerirà l'autorització prèvia de la direcció territorial competent en matèria d'educació.
+
+Article 22. Altes capacitats
+----------------------------
+
+1. La identificació, valoració i atenció de l'alumnat amb altes capacitats es realitzarà segons el que disposa l'article 14.4 del Reial Decret 126/2014.
+
+2. Els centres docents inclouran en el seu pla d'atenció a la diversitat i inclusió educativa les mesures pertinents per a identificar i valorar les necessitats específiques dels alumnes amb altes capacitats intel·lectuals, en col·laboració amb el personal docent especialista en orientació educativa o qui en tinga atribuïdes les funcions.
+
+3. Les adaptacions específiques del currículum per a este alumnat en què es propose una ampliació o enriquiment dels continguts de les diferents àrees requerirà una avaluació psicopedagògica prèvia. Estes adaptacions hauran de ser elaborades per l'equip docent i seran autoritzades pel director o la directora del centre.
+
+4. La flexibilització de l'escolarització de l'alumnat en l'Educació Primària es realitzarà segons els criteris establits en l'article 7 del Reial Decret 943/2003, de 18 de juliol, pel qual es regulen les condicions per a flexibilitzar la duració dels diversos nivells i etapes del sistema educatiu per als alumnes superdotats intel·lectualment, o norma que el substituïsca. En tot cas, esta mesura requerirà el consentiment exprés dels representants legals de l'alumne o alumna, així com els informes favorables de l'equip docent, del personal docent especialista en orientació educativa o qui en tinga atribuïdes les funcions, i l'autorització de la direcció territorial competent en matèria d'educació, tot això, segons el procediment que establisca la conselleria competent en matèria d'educació.
+
+Article 23. Incorporació tardana
+--------------------------------
+
+
+1. L'escolarització i atenció de l'alumnat que s'incorpore de manera tardana al sistema educatiu es realitzarà en els termes indicats en els articles 78 i 79 de la Llei Orgànica 2/2006, així com en l'article 14.5 del Reial Decret 126/2014.
+
+2. Els programes específics autoritzats per la conselleria competent en matèria d'educació a fi d'atendre les necessitats de l'alumnat que presente greus carències lingüístiques o en les seues competències o coneixements bàsics, a fi de facilitar la seua integració en el curs corresponent, es desenrotllaran de manera que progressivament l'alumne o alumna romanga el major temps possible en el grup ordinari de referència. Estos programes seguiran una metodologia basada en el reforç de les àrees instrumentals i el treball interdisciplinari.
+
+3. A fi de fer efectius els principis d'inclusió i no discriminació, es promourà en els centres educatius l'educació intercultural, el respecte a les diferències i la pluralitat cultural, en el marc dels valors constitucionals.
+
+Article 24. Dificultats d'aprenentatge
+--------------------------------------
+
+1. La identificació, valoració i atenció de l'alumnat amb dificultats específiques d'aprenentatge es realitzarà segons el que disposa l'article 79.bis de la Llei Orgànica 2/2006,i en l'article 14.2 del Reial Decret 126/2014.
+
+2. La conselleria competent en matèria d'educació, dins dels procediments per a la detecció primerenca de necessitats específiques de suport educatiu que desenrotlle, prestarà especial atenció a la detecció primerenca de dificultats específiques d'aprenentatge derivades de pertorbacions en processos cognitius bàsics referents a l'ús del llenguatge parlat o escrit, o del càlcul aritmètic.
+
+Article 25. Acció tutorial
+--------------------------
+
+1. Segons disposa l'article 9.4 del Reial Decret 126/2014, l'acció tutorial orientarà el procés educatiu individual i col·lectiu de l'alumnat. El professor tutor o la professora tutora coordinarà la intervenció educativa del conjunt del professorat de l'alumnat a qui tutoritza d'acord amb el que establisca la conselleria competent en matèria d'educació, i mantindrà una relació permanent amb la família, a fi de facilitar l'exercici dels drets reconeguts en l'article 4.1.d i g de la Llei Orgànica 8/1985, de 3 de juliol, reguladora del dret a l'educació.
+
+2. El professorat tutor facilitarà l'accés dels representants legals de l'alumnat a la dinàmica escolar per mitjà de l'activació de processos d'informació mútua i de col·laboració.
+
+3. Els representants legals de l'alumnat col·laboraran i facilitaran la informació necessària sobre l'alumnat per a l'adequada orientació i presa de decisions sobre el seu procés educatiu.
+
+Article 26. Transició a l'Educació Secundària Obligatòria
+---------------------------------------------------------
+
+Atesa la finalitat de l'Educació Primària referent a preparar l'alumnat per a cursar amb aprofitament l'Educació Secundària Obligatòria, i a fi de coordinar la transició entre ambdós etapes en els termes indicats en l'article 8.6 del Reial Decret 126/2014, els centres d'Educació Primària i els d'Educació Secundària Obligatòria a què estiguen adscrits, tant públics com privats concertats, planificaran i desenrotllaran processos de coordinació, entre els quals s'inclourà l'elaboració d'un pla de transició de l'etapa d'Educació Primària a la d'Educació Secundària Obligatòria en els termes que establisca reglamentàriament la conselleria competent en matèria d'educació.
+
+=============
+1.2. Igualtat
+=============
+
+
+Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+
+
+Font: `BOE Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.`_
+
+.. _BOE Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-12632
+
+CAPÍTULO III
+============
+
+-----------------------
+De la atención integral
+-----------------------
+
+Artículo 13. Atención integral.
+-------------------------------
+
+1. Se entiende por atención integral los procesos o cualquier otra medida de intervención dirigidos a que las personas con discapacidad adquieran su máximo nivel de desarrollo y autonomía personal, y a lograr y mantener su máxima independencia, capacidad física, mental y social, y su inclusión y participación plena en todos los aspectos de la vida, así como la obtención de un empleo adecuado.
+
+2. Los programas de atención integral podrán comprender:
+
+a) Habilitación o rehabilitación médico-funcional.
+
+b) Atención, tratamiento y orientación psicológica.
+
+c) Educación.
+
+d) Apoyo para la actividad profesional.
+
+3. Estos programas deberán comenzar en la etapa más temprana posible y basarse en una evaluación multidisciplinar de las necesidades y capacidades de la persona con discapacidad, así como de las oportunidades del entorno, considerando las adaptaciones o adecuaciones oportunas y los apoyos a la toma de decisiones y a la promoción de la autonomía personal.
+
+4. Las administraciones públicas velarán por el mantenimiento de unos servicios de atención adecuados, mediante la coordinación de los recursos y servicios de habilitación y rehabilitación en los ámbitos de la salud, el empleo, la educación y los servicios sociales, con el fin de garantizar a las personas con discapacidad una oferta de servicios y programas próxima, en el entorno en el que se desarrolle su vida, suficiente y diversificada, tanto en zonas rurales como urbanas.
+
+Artículo 14. Habilitación o rehabilitación médico-funcional.
+------------------------------------------------------------
+
+1. La habilitación o rehabilitación médico-funcional tiene como objetivo conseguir la máxima funcionalidad de las capacidades físicas, sensoriales, mentales o intelectuales. Este proceso se inicia con la detección e identificación de las deficiencias y necesidades psicosociales de cada persona y continuará hasta la consecución y mantenimiento del máximo desarrollo y autonomía personal posible.
+
+2. A estos efectos, toda persona que presente alguna deficiencia en sus estructuras o funciones corporales o psicosociales, de la que se derive o pueda derivarse una limitación en la actividad calificada como discapacidad según lo dispuesto en esta ley, tendrá derecho a beneficiarse de los procesos de habilitación o rehabilitación médico - funcional necesarios para mejorar y alcanzar la máxima autonomía personal posible y poder lograr con los apoyos necesarios su desarrollo personal y participación plena y efectiva en la sociedad en igualdad de condiciones con las demás.
+
+3. El proceso habilitador o rehabilitador que se inicie en servicios específicos se desarrollará en intima conexión con los centros de intervención en donde deba continuarse y proseguirá, si fuera necesario, como tratamiento domiciliario o bien en el entorno en el que la persona con discapacidad desarrolla su vida, con los recursos comunitarios existentes.
+
+4. Los programas de habilitación y rehabilitación se complementarán con el suministro, la adaptación, conservación y renovación de tecnologías de apoyo, prótesis y órtesis, dispositivos, vehículos, y otros elementos auxiliares para las personas con discapacidad cuyas circunstancias personales lo aconsejen.
+
+Artículo 15. Atención, tratamiento y orientación psicológica.
+------------------------------------------------------------
+
+1. La atención, el tratamiento y la orientación psicológica estarán presentes durante las distintas fases del proceso interdisciplinar habilitador o rehabilitador e irán encaminadas a lograr de la persona con discapacidad la máxima autonomía y el pleno desarrollo de su personalidad, así como el apoyo a su entorno familiar más inmediato.
+
+2. La atención, el tratamiento y orientación psicológica se basarán en las características personales de la persona con discapacidad, sus motivaciones e intereses así como los factores familiares y sociales que puedan condicionarle, y estarán dirigidos a potenciar al máximo el uso de sus capacidades y su autonomía personal, teniendo en cuenta su proyecto singular de vida.
+
+3. La atención, el tratamiento y la orientación psicológica formarán parte de los apoyos a la autonomía personal y deberán estar coordinados con el resto de los tratamientos funcionales y, en todo caso, se facilitarán desde la detección de la deficiencia, o desde el momento en que se inicie un proceso patológico o concurra una circunstancia sobrevenida que pueda desembocar en una limitación en la actividad.
+
+Artículo 16. Educación.
+----------------------
+
+La educación inclusiva formará parte del proceso de atención integral de las personas con discapacidad y será impartida mediante los apoyos y ajustes que se reconocen en el capítulo IV de este título y en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+Artículo 17. Apoyo para la actividad profesional.
+------------------------------------------------
+
+1. Las personas con discapacidad en edad laboral tendrán derecho a beneficiarse de programas de rehabilitación vocacional y profesional, mantenimiento del empleo y reincorporación al trabajo.
+
+2. Los procesos de apoyo para la actividad profesional comprenderán, entre otras, las siguientes prestaciones:
+
+a) Los procesos de habilitación o rehabilitación médico-funcional.
+
+b) La orientación profesional.
+
+c) La formación, readaptación o recualificación profesional.
+
+3. En los procesos de apoyo para la actividad profesional, la habilitación o rehabilitación médico-funcional, regulada en el artículo 14, comprenderá tanto el desarrollo de las capacidades como la utilización de productos y tecnologías de apoyo y dispositivos necesarios para el mejor desempeño de un puesto de trabajo en igualdad de condiciones con los demás.
+
+4. La orientación profesional será prestada por los correspondientes servicios, teniendo en cuenta las capacidades reales de la persona con discapacidad, determinadas conforme a los informes de los equipos multiprofesionales de calificación y reconocimiento del grado de discapacidad. Asimismo se tomará en consideración la formación efectivamente recibida y por recibir, y las posibilidades de empleo existentes en cada caso, así como la atención a sus motivaciones, aptitudes y preferencias profesionales. Comprenderá asimismo los apoyos necesarios para la búsqueda, obtención, mantenimiento del empleo y retorno al mismo.
+
+5. La formación, readaptación o recualificación profesional que podrá comprender en su caso, una preformación general básica, promoverá la adquisición de experiencia laboral en el mercado de trabajo y se impartirá de acuerdo con el itinerario personal y la orientación profesional prestada con anterioridad, conforme a la decisión tomada por la persona con discapacidad, y siguiendo los criterios establecidos en el artículo 15.
+
+6. Las actividades formativas podrán impartirse, además de en los centros de formación dedicados a ello, en las empresas, siendo necesario en este último supuesto, la formalización de un contrato para la formación y el aprendizaje, cuyo contenido básico se ajustará a lo dispuesto en el artículo 11 del Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y sus normas de desarrollo.
+
+7. Los procesos de apoyo para la actividad profesional a que se refiere este artículo podrán ser complementados, en su caso, con otras medidas adicionales que faciliten al beneficiario el logro del máximo nivel de desarrollo personal y favorezcan su plena inclusión y participación en la vida social.
+
+CAPÍTULO IV
+===========
+
+----------------------
+Derecho a la educación
+----------------------
+
+Artículo 18. Contenido del derecho.
+----------------------------------
+
+1. Las personas con discapacidad tienen derecho a una educación inclusiva, de calidad y gratuita, en igualdad de condiciones con las demás.
+
+2. Corresponde a las administraciones educativas asegurar un sistema educativo inclusivo en todos los niveles educativos así como la enseñanza a lo largo de la vida y garantizar un puesto escolar a los alumnos con discapacidad en la educación básica, prestando atención a la diversidad de necesidades educativas del alumnado con discapacidad, mediante la regulación de apoyos y ajustes razonables para la atención de quienes precisen una atención especial de aprendizaje o de inclusión.
+
+3. La escolarización de este alumnado en centros de educación especial o unidades sustitutorias de los mismos sólo se llevará a cabo cuando excepcionalmente sus necesidades no puedan ser atendidas en el marco de las medidas de atención a la diversidad de los centros ordinarios y tomando en consideración la opinión de los padres o tutores legales.
+
+Artículo 19. Gratuidad de la enseñanza.
+--------------------------------------
+
+Las personas con discapacidad, en su etapa educativa, tendrán derecho a la gratuidad de la enseñanza, en los centros ordinarios y en los centros especiales, de acuerdo con lo que disponen la Constitución y las leyes que la desarrollan.
+
+Artículo 20. Garantías adicionales.
+----------------------------------
+
+Con el fin de garantizar el derecho a una educación inclusiva de las personas con discapacidad y sin perjuicio de las medidas previstas en la normativa en materia de educación, se establecen las siguientes garantías adicionales:
+
+a) Los centros de educación especial crearán las condiciones necesarias para facilitar la conexión con los centros ordinarios, y la inclusión de sus alumnos en el sistema educativo ordinario.
+
+b) Los hospitales infantiles, de rehabilitación y aquellos que tengan servicios pediátricos permanentes, ya sean de titularidad pública o privada que regularmente ocupen al menos la mitad de sus camas con pacientes cuya estancia y atención sanitaria sean financiadas con cargo a recursos públicos, deberán contar con una sección pedagógica para prevenir y evitar la marginación del proceso educativo de los alumnos de edad escolar ingresados en dichos hospitales.
+
+c) Las personas que cursen estudios universitarios, cuya discapacidad les dificulte gravemente la adaptación al régimen de convocatorias establecido con carácter general, podrán solicitar y las universidades habrán de conceder, de acuerdo con lo que dispongan sus correspondientes normas de permanencia que, en todo caso, deberán tener en cuenta la situación de las personas con discapacidad que cursen estudios en la universidad, la ampliación del número de las mismas en la medida que compense su dificultad, sin mengua del nivel exigido. Las pruebas se adaptarán, en su caso, a las características de la discapacidad que presente el interesado.
+
+d) Se realizarán programas de sensibilización, información y formación continua de los equipos directivos, el profesorado y los profesionales de la educación, dirigida a su especialización en la atención a las necesidades educativas especiales del alumnado con discapacidad, de modo que puedan contar con los conocimientos y herramientas necesarias para ello.
+
+Artículo 21. Valoración de las necesidades educativas.
+------------------------------------------------------
+
+1. Son funciones específicas de los servicios de orientación educativa apoyar a los centros docentes en el proceso hacia la inclusión y, especialmente, en las funciones de orientación, evaluación e intervención educativa, contribuyendo a la dinamización pedagógica, a la calidad y la innovación educativa.
+
+2. A efectos de la participación en el control y gestión de los centros docentes previsto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación, y en la Ley Orgánica 2/2006, de 3 de mayo, de educación, se tendrá en cuenta la especialidad de esta ley en lo que se refiere a los servicios de orientación educativa.
+
+=================
+1.3. Instruccions
+=================
+
+RESOLUCIÓ d’1 de juliol de 2016, de les direccions generals de Política Educativa i de Centres i Personal Docent, per la qual es dicten instruccions per a l’organització i funcionament en les escoles d’Educació Infantil de segon cicle i col·legis d’Educació Primària durant el curs 2016-2017. [2016/5286]
+
+Font: Instruccions_2016_
+
+.. _Instruccions_2016: https://www.docv.gva.es/portal/portal/2016/07/12/pdf/2016_5286.pdf
+
+-----------------------------------------------------------------
+1.4.5. Pla d’atenció a la diversitat i inclusió educativa (PADIE)
+----------------------------------------------------------------- 
+
+1. Seran d’aplicació l’article 121 de la Llei Orgànica 2/2006, de 3 de maig, d’Educació, modificada per la Llei Orgànica 8/2013, de 9 de desembre, de Millora de la Qualitat Educativa; l’article 16 del Reial Decret Legislatiu 1/2013, de 29 de novembre i l’article 16 del Decret 108/2014, de 4 de juliol. 
+
+2. Els centres docents disposaran d’un pla d’atenció a la diversitat i inclusió educativa, que formarà part del projecte educatiu del centre. Aquest pla inclourà: 
+
+- Mesures de suport i reforç. 
+- Adaptacions del currículum. 
+- Adaptacions d’accés al currículum. 
+- Mesures d’atenció a l’alumnat amb altes capacitats. 
+- Programes específics autoritzats en el centre 
+
+3. El pla d’atenció a la diversitat i inclusió educativa contemplarà els protocols d’actuació en el centre corresponents a:
+
+- Prevenció i mesures organitzatives del centre. 
+- Detecció i anàlisi de necessitats. 
+- Identificació de necessitats específiques de suport educatiu i de compensació educativa. 
+- Mesures de suport i reforç ordinàries i extraordinàries i plans d’actuació per a l’alumnat. 
+- Organització de recursos humans i materials del centre: generals i específics. 
+- Funcions i responsabilitats. Coordinació. 
+- Avaluació i seguiment del pla d’atenció a la diversitat i inclusió educativa. Propostes de modificació.
+
+4. L’especialista en orientació educativa donarà suport al centre en el procés cap a la inclusió i, especialment, en les funcions d’orientació, avaluació i intervenció educativa amb l’alumnat amb necessitats específiques de suport educatiu. 
+
