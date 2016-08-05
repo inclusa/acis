@@ -2,9 +2,25 @@
 1. Fonamentació
 ###############
 
-=============
-1. Currículum
-=============
+===============
+1.0. Legislació
+===============
+
+* `Llei Orgànica 2/2006, de 3 de maig, d’Educació`_.
+* `Llei Orgànica 8/2013, de 9 de desembre, per a la millora de la qualitat educativa`_.
+* `Decret 233/1997, de 2 de setembre`_, del Govern Valencià, pel qual s’aprova el **Reglament orgànic i funcional** de les escoles d’Educació Infantil i dels col·legis Educació Primària (DOGV 08.09.1997)
+* **Ordre de 29 de juny de 1992**, de la Conselleria de Cultura, Educació i Ciència, per la qual s’aproven les **instruccions que regulen l’organització i el funcionament dels centres docents** que impartisquen ensenyaments de segon cicle d’Educació Infantil, Preescolar, Primària, General Bàsica, Educació Especial, Secundària Obligatòria, Batxillerat i Formació Professional, sostinguts amb fons públics i dependents de la Conselleria de Cultura, Educació i Ciència de la Generalitat Valenciana (DOGV 1992.07.15)
+* **Decret 59/2016, de 13 de maig**, del Consell, **fixa el nombre màxim d’alumnat i la jornada lectiva del personal docent** en els nivells no universitaris regulats per la Llei Orgànica 2/2006, de 3 de maig, d’Educació, en els centres docents no universitaris de la Comunitat Valenciana (DOCV 2016.05.17)
+* Decret 155/2015, de 18 de setembre, del Consell, pel qual s’aprova el Reglament orgànic i funcional de la Conselleria d’Educació, Investigació, Cultura i Esport.
+
+.. _Llei Orgànica 2/2006, de 3 de maig, d’Educació: https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899
+.. _Llei Orgànica 8/2013, de 9 de desembre, per a la millora de la qualitat educativa: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-12886
+.. _Decret 233/1997, de 2 de setembre: http://www.docv.gva.es/datos/1997/09/08/pdf/1997_10024.pdf
+
+
+===============
+1.1. Currículum
+===============
 
 DECRET 108/2014, de 4 de juliol, del Consell, pel qual establix el currículum i desplega l’ordenació general de l’Educació Primària a la Comunitat Valenciana. 
 [2014/6347]
@@ -160,15 +176,17 @@ Article 26. Transició a l'Educació Secundària Obligatòria
 
 Atesa la finalitat de l'Educació Primària referent a preparar l'alumnat per a cursar amb aprofitament l'Educació Secundària Obligatòria, i a fi de coordinar la transició entre ambdós etapes en els termes indicats en l'article 8.6 del Reial Decret 126/2014, els centres d'Educació Primària i els d'Educació Secundària Obligatòria a què estiguen adscrits, tant públics com privats concertats, planificaran i desenrotllaran processos de coordinació, entre els quals s'inclourà l'elaboració d'un pla de transició de l'etapa d'Educació Primària a la d'Educació Secundària Obligatòria en els termes que establisca reglamentàriament la conselleria competent en matèria d'educació.
 
-===========
-2. Igualtat
-===========
+=============
+1.2. Igualtat
+=============
 
 
 Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
 
-Font: [https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-12632](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-12632)
+Font: `BOE Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.`_
+
+.. _BOE Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-12632
 
 CAPÍTULO III
 ============
@@ -285,15 +303,15 @@ Artículo 21. Valoración de las necesidades educativas.
 
 2. A efectos de la participación en el control y gestión de los centros docentes previsto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación, y en la Ley Orgánica 2/2006, de 3 de mayo, de educación, se tendrá en cuenta la especialidad de esta ley en lo que se refiere a los servicios de orientación educativa.
 
-===============
-3. Instruccions
-===============
+=================
+1.3. Instruccions
+=================
 
 RESOLUCIÓ d’1 de juliol de 2016, de les direccions generals de Política Educativa i de Centres i Personal Docent, per la qual es dicten instruccions per a l’organització i funcionament en les escoles d’Educació Infantil de segon cicle i col·legis d’Educació Primària durant el curs 2016-2017. [2016/5286]
 
-Font: Instruccions_
+Font: Instruccions_2016_
 
-.. _Instruccions: https://www.docv.gva.es/portal/portal/2016/07/12/pdf/2016_5286.pdf
+.. _Instruccions_2016: https://www.docv.gva.es/portal/portal/2016/07/12/pdf/2016_5286.pdf
 
 -----------------------------------------------------------------
 1.4.5. Pla d’atenció a la diversitat i inclusió educativa (PADIE)
@@ -305,7 +323,6 @@ Font: Instruccions_
 
 - Mesures de suport i reforç. 
 - Adaptacions del currículum. 
-- Adaptaciones del currículo.
 - Adaptacions d’accés al currículum. 
 - Mesures d’atenció a l’alumnat amb altes capacitats. 
 - Programes específics autoritzats en el centre 

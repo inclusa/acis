@@ -3,23 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to padie's documentation!
-=================================
+Projecte d'Atenció a la Diversitat i Inclusió Educativa (PADIE)
+===============================================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-   Fonamentació
-
-   ./_files/01_fonamentacio/01_curriculum.rst
-   ./_files/01_fonamentacio/02_igualtat.rst
-   ./_files/01_fonamentacio/03_instruccions.rst
+   ./_files/01_fonaments.rst
+   ./_files/02_mesures.rst
+   ./_files/03_protocols.rst
    ---
 
-Indices and tables
-==================
+Index i taules
+==============
 
 * :ref:`genindex`
 * :ref:`modindex`
