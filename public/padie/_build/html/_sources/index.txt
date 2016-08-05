@@ -11,9 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   ./_files/01_curriculum.rst
-   ./_files/02_igualtat.rst
-   ./_files/03_instruccions.rst
+   Fonamentació
+
+   ./_files/01_fonamentacio/01_curriculum.rst
+   ./_files/01_fonamentacio/02_igualtat.rst
+   ./_files/01_fonamentacio/03_instruccions.rst
    ---
 
 Indices and tables

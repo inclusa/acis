@@ -155,3 +155,4 @@ Article 26. Transició a l'Educació Secundària Obligatòria
 ---------------------------------------------------------
 
 Atesa la finalitat de l'Educació Primària referent a preparar l'alumnat per a cursar amb aprofitament l'Educació Secundària Obligatòria, i a fi de coordinar la transició entre ambdós etapes en els termes indicats en l'article 8.6 del Reial Decret 126/2014, els centres d'Educació Primària i els d'Educació Secundària Obligatòria a què estiguen adscrits, tant públics com privats concertats, planificaran i desenrotllaran processos de coordinació, entre els quals s'inclourà l'elaboració d'un pla de transició de l'etapa d'Educació Primària a la d'Educació Secundària Obligatòria en els termes que establisca reglamentàriament la conselleria competent en matèria d'educació.
+

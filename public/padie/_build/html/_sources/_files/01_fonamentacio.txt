@@ -1,0 +1,17 @@
+############
+Fonamentació
+############
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   Fonamentació
+
+   ./01_fonamentacio/01_curriculum.rst
+   ./01_fonamentacio/02_igualtat.rst
+   ./01_fonamentacio/03_instruccions.rst
+   ---
+
+
